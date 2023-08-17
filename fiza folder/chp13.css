@@ -1,0 +1,9 @@
+.f  { line-height: 1%;   }
+#fb {  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#s {
+border-top: 1px solid black;
+border-bottom: 1px solid black ;
+border-left: none;
+border-right: none;
+word-spacing: 50px;
+}
